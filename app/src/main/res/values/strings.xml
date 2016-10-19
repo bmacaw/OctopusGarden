@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Octopus Garden</string>
+    <string name="address">123 Cozy Cave Place\nThe Shade, Pacific Ocean</string>
+    <string name="description">A secret
+              place under the sea where people can
+              yell, swim around, sing, dance or just
+              lay down on the ocean bed and rest!</string>
+    <string name="phone">(555)555-5555</string>
+    <string name="website">www.theoctopusgarden.sea</string>
+    <string name="email">ollie@octopusgarden.sea</string>
+    <string name="hours">24 Hours a Day\n7 Days a Week</string>
+    <string name="location">Visit</string>
+    <string name="contact">Contact</string>
+    <string name="websiteLabel">Web</string>
+    <string name="title">Octopus Garden</string>
+    <string name="about">About</string>
+    <string name="emailLabel">Email</string>
+    <string name="phoneLabel">Call</string>
+    <string name="hoursLabel">Hours</string>
+</resources>
